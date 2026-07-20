@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Satheesh Kumar Mangali
+# Hi there 👋, I'm Satheesh Kumar
 
 ## 🚀 Backend Developer | Node.js | TypeScript | Generative AI Enthusiast
 
@@ -16,17 +16,17 @@ Passionate Backend Developer with 1 year of hands-on experience building scalabl
 - 🌱 Currently learning Docker, Kubernetes, Microservices, and System Design.
 - 👯 Looking to collaborate on Backend Development, Open Source, and AI projects.
 - 💬 Ask me about Node.js, Express.js, Hono.js, TypeScript, PostgreSQL, MongoDB, REST APIs, JWT Authentication, and Generative AI.
-- 📫 Reach me at: **your-email@gmail.com**
-- 🌍 Portfolio: **https://your-portfolio.vercel.app**
-- 📄 Resume: **Add your resume link here**
+- 📫 Reach me at: **satheesh8349@gmail.com**
+- 🌍 Portfolio: **https://satheesh-kumar-portfolio.vercel.app/**
+- 📄 Resume: **https://drive.google.com/file/d/11NfbPiT3vfMyqfaLxJp-1ve-f0_CK7Yj/view?usp=drive_link**
 
 ---
 
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/satheeshkumar953)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satheeshkumar8/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satheesh8349@gmail.com)
 
 ---
 
